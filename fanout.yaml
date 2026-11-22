@@ -5,5 +5,6 @@ version: 0.1.0
 description: Draft discovery plans, prototypes, PRDs with Gherkin acceptance criteria, design specs and engineering projects from a product brief. Every output is a draft a person approves.
 author:
   name: "Taylor Tyler"
+repository: https://github.com/taylortyler-1/product-bench
 license: MIT
 platforms: [agent-plugin, claude-code]
