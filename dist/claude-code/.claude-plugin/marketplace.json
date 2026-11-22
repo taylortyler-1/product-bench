@@ -1,0 +1,15 @@
+{
+  "name": "product-bench",
+  "description": "Draft discovery plans, prototypes, PRDs with Gherkin acceptance criteria, design specs and engineering projects from a product brief. Every output is a draft a person approves.",
+  "owner": {
+    "name": "Taylor Tyler"
+  },
+  "plugins": [
+    {
+      "name": "product-bench",
+      "description": "Draft discovery plans, prototypes, PRDs with Gherkin acceptance criteria, design specs and engineering projects from a product brief. Every output is a draft a person approves.",
+      "version": "0.1.0",
+      "source": "./"
+    }
+  ]
+}
