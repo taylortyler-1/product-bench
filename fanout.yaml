@@ -1,0 +1,9 @@
+# fanout.yaml: metadata for the plugins fanout builds.
+# See https://github.com/taylortyler-1/fanout#configure-your-build
+name: product-bench
+version: 0.1.0
+description: Draft discovery plans, prototypes, PRDs with Gherkin acceptance criteria, design specs and engineering projects from a product brief. Every output is a draft a person approves.
+author:
+  name: "Taylor Tyler"
+license: MIT
+platforms: [agent-plugin, claude-code]
