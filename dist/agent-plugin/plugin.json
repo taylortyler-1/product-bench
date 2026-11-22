@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "product-bench",
+  "version": "0.1.0",
+  "description": "Draft discovery plans, prototypes, PRDs with Gherkin acceptance criteria, design specs and engineering projects from a product brief. Every output is a draft a person approves.",
+  "author": {
+    "name": "Taylor Tyler"
+  },
+  "repository": "https://github.com/taylortyler-1/product-bench",
+  "license": "MIT"
+}
